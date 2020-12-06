@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+  }
+  h1{
+    color:	#F0F0F0;
+    background-color:	#A4A400;
+    text-align:center;
+    
+  }
+  p{
+    color:#404040 ;
+    text-align:center
+  }
+  
+      
+  
+  
+  .header{
+      background: radial-gradient(#fff,#ffd6d6)
+  }
